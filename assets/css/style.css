@@ -2,7 +2,8 @@ body{
     background: url(/assets/img/working\ girl.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    filter:none;
+    filter: none;
+    opacity: 5;
     
 }
 
@@ -10,6 +11,14 @@ img{
     width: 100%;
 }
 
-.navbar{
-    background-color: ;
+.navbar{ 
+    z-index: 100;
+    position: sticky;
+}
+.navbar .
+
+.card{
+    background: #926868;
+    color: #e01313e4;
+
 }
